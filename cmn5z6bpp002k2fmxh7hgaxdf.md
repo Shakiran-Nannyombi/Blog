@@ -5,6 +5,7 @@ seoDescription: "A learning-in-public blog documenting my journey mastering comp
 datePublished: 2026-03-25T11:43:36.399Z
 cuid: cmn5z6bpp002k2fmxh7hgaxdf
 slug: welcome-to-fundamentals-mastery-learning-in-public
+cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/0135f86f-37dd-477c-9225-d86d94c9a5ac.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/2c976ae3-76be-462a-8c8f-804e4e5b8954.png
 tags: software-development, computer-science, fundamentals, learning, software-engineering, mastery
 
