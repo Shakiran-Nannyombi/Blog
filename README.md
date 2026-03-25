@@ -38,7 +38,7 @@ Example topics include:
 You can read the blog here:
 
 Hashnode Blog:
-[https://your-blog-url.hashnode.dev](https://shakiran.hashnode.dev/)
+[https://shakiran.hashnode.dev/](https://shakiran.hashnode.dev/)
 
 ## Author
 
