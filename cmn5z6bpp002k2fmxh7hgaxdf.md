@@ -11,8 +11,6 @@ tags: software-development, computer-science, fundamentals, learning, software-e
 
 ---
 
-![](https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/42da8152-8f5b-4c01-a374-4949e306a577.png align="center")
-
 Every great engineer eventually discovers the same truth:
 
 **Strong fundamentals matter more than anything else.**
@@ -41,7 +39,7 @@ Some of the topics I will be exploring include:
     
 *   Data structures and algorithms
     
-*   CXomputer Achitecture
+*   Computer Architecture
     
 *   Operating systems
     
@@ -73,3 +71,5 @@ If you're also interested in mastering the fundamentals of computer science, you
 Let’s learn and grow together.
 
 — **Shakiran**
+
+![](https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/d4c3780c-90f8-4150-9f99-671a7defeb74.png align="center")
