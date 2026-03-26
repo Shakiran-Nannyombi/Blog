@@ -1,62 +1,51 @@
 <p align="center">
-  <img src="images/banner.png" alt="Fundamentals Mastery Banner" width="800"/>
+  <img src="images/banner.png" alt="Where the Wind Finds Me Banner" width="800"/>
 </p>
 
-<h1 align="center">💜 Fundamentals Mastery 💜</h1>
+<h1 align="center">💜 Where the Wind Finds Me 💜</h1>
 
 <p align="center">
-  A learning-in-public blog where I document my journey mastering the core foundations of Computer Science and Software Engineering.
+  A space for thoughts on tech fundamentals, career growth, hackathon experiences, and life lessons.<br/>
+  I share what I learn as I go — the fundamentals that matter, the mistakes that taught me the most, and the unexpected paths that shape how we build and live.
 </p>
 
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## About the Blog
 
-In this blog, I break down complex technical concepts into simple **101-style explanations** to help beginners understand the foundations of computing.
+This blog is a place where I write openly about the things that shape me — as a developer, a learner, and a person navigating the tech world.
 
 Topics covered include:
 
-- Programming fundamentals  
-- Data structures and algorithms  
-- Operating systems  
-- Computer networks  
-- Databases  
-- Software engineering principles  
-- Developer tools and workflows  
+- Tech fundamentals  
+- Career growth and developer journeys  
+- Hackathon experiences and lessons  
+- Life lessons and unexpected paths  
+- Mistakes that taught me the most  
+- The fundamentals that truly matter  
 
-The goal is to strengthen my understanding of core concepts while sharing knowledge with others who are learning.
-
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## Blog Structure
 
-Most articles follow a **"101 format"**, where each post introduces and explains a fundamental concept in a **simple and beginner-friendly way**.
+Posts range from technical deep-dives to personal reflections. Whether it's breaking down a concept I just learned, sharing what happened at a hackathon, or writing through a career decision — this is where those thoughts land.
 
-Example topics include:
-
-- Variables and Data Types 101  
-- Functions 101  
-- Object-Oriented Programming 101  
-- Data Structures 101  
-- Operating Systems 101  
-- APIs 101  
-
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## Where to Read the Blog
 
 You can read the blog here:  
 [**Hashnode Blog**](https://shakiran.hashnode.dev/)
 
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## Author
 
 **Shakiran Nannyombi**  
 
-Software Engineer passionate about technology, developer communities, and learning computer science fundamentals in public.
+Software Engineer sharing what I learn as I go — the wins, the wrong turns, and everything in between.
 
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## Purpose of This Repository
 
@@ -67,7 +56,7 @@ This repository exists to:
 - Preserve drafts and published posts  
 - Maintain ownership of all blog content  
 
----
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #28a745, #fd7e14); border-radius: 2px;" />
 
 ## License
 
