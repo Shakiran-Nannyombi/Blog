@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/banner.png" alt="Fundamentals Mastery Banner" width="800"/>
+  <img src="images/banner.png" alt="Fundamentals Mastery Banner" width="800"/>
 </p>
 
 <h1 align="center">💜 Fundamentals Mastery 💜</h1>
@@ -74,7 +74,7 @@ This repository exists to:
 MIT License  
 
 <p align="center">
-  <img src="assests/logo.png" alt="Logo" width="150"/>
+  <img src="images/logo.png" alt="Logo" width="150"/>
 </p>
 
 _Content in this repository is for educational and personal publishing purposes._
