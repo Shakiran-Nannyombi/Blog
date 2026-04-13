@@ -21,7 +21,7 @@ Every time a user came back, it was like starting over. Preferences were lost, c
 
 That changed when I integrated **Backboard.io**.
 
-You can view the project here: 👉 [https://londoolink-ai.vercel.app/](https://londoolink-ai.vercel.app/)
+You can view the project here: [https://londoolink-ai.vercel.app/](https://londoolink-ai.vercel.app/)
 
 * * *
 
@@ -130,7 +130,7 @@ def create_thread(self, user_id):
 
 Adding messages to a thread:
 
-This appends a new message (user or assistant) to an existing conversation thread to maintain context.
+This appends a new message (from a user or an assistant) to an existing conversation thread to maintain context.
 
 ```python
 def add_message(self, thread_id, role, content):
@@ -213,6 +213,6 @@ Big shoutout to the MLH community and organizers for creating an environment whe
 
 ## 9\. Final Thoughts
 
-This integration changed my system from something that simply generates results into something that understands users over time.
+This integration changed my system from something that generates results into something that understands users over time.
 
 If you’re building AI applications, adding memory is one of the most impactful upgrades you can make.
