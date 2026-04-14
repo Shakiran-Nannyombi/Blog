@@ -5,8 +5,8 @@ seoDescription: "I built multi-agent AI systems using Gmail, Calendar & Notion. 
 datePublished: 2026-04-14T01:38:12.293Z
 cuid: cmnxyct6q009f2dlnd7yhgt6b
 slug: building-secure-ai-agents-with-auth0-token-vault
-cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/e758f6f4-69f0-4c2a-ad3d-b37ff3ae0577.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/edc2f9af-228c-44de-9cb5-854735c24f62.png
+cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/abdf4867-b816-4ccb-b3f8-7db32ee293a7.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/8fe28030-5e83-4b69-9190-068fbb065327.png
 tags: security, backend, oauth, auth0, system-design, fastapi, backend-developments, ai-agents
 
 ---
