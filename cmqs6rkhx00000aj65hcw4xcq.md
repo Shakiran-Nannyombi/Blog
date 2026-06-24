@@ -172,3 +172,7 @@ If you’re proposing something unfamiliar, name it in plain English first — n
 > I still have REST brain reflexes. That’s fine. The skill is carrying more than one model and knowing which fits the repo and the moment.
 > 
 > That’s the discovery for this one.
+
+### Lets Connect
+
+What architecture tradeoff have you changed your mind about recently? I'd love to hear your experience. Below in the comments!
