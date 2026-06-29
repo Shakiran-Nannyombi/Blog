@@ -81,15 +81,15 @@ Over time, we were fortunate to receive support from:
 
 *   Google Build with AI
     
-*   Major League Hacking
+*   [Major League Hacking](https://www.mlh.com/)
     
-*   Cursor
+*   [Cursor](https://luma.com/cursor-kampala)
     
-*   Featherless AI
+*   [Featherless AI](https://featherless.ai/)
     
 *   GitHub
     
-*   American Center Kampala
+*   [American Center Kampala](https://ug.usembassy.gov/education/american-spaces/)
     
 
 Each partnership added something unique. Some provided prizes. Others provided technical resources. Some opened doors that would otherwise have remained closed.
