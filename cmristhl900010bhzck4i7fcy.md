@@ -6,7 +6,7 @@ seoDescription: "Follow week 4 of my internship building technical assessment fu
 datePublished: 2026-07-13T05:45:29.428Z
 cuid: cmristhl900010bhzck4i7fcy
 slug: engineering-the-frontend-funnel
-cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/791a8e39-7ac3-4578-85d2-25932bde587f.png
+cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/e615955e-f561-401f-bf3c-fb2bb643a4c9.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/8a11dd92-2c33-4475-9a07-6cc01ef51196.png
 tags: internships, frontend, web-development, ui-design, frontend-development, material-ui
 
