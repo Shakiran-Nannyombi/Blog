@@ -5,7 +5,7 @@ seoDescription: "Hey everyone! 👋 Welcome to the very first post of my interns
 datePublished: 2026-06-24T13:46:47.315Z
 cuid: cmqs4n98r000109jidzis8s1t
 slug: from-classroom-to-real-world-surviving-week-1-of-my-software-engineering-internship
-cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/408eef5f-c375-413f-818c-7260fd84898f.png
+cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/f7c59dbe-e136-46c2-808a-9abd66d9e07d.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/e5745336-ba46-426a-9a2a-dbed64e722dc.png
 tags: internships, software-architecture, software-engineering, planning, teamwork
 
