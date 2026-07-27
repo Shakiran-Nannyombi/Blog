@@ -7,7 +7,7 @@ datePublished: 2026-06-24T14:12:38.128Z
 cuid: cmqs5khu5000009kte1oebssb
 slug: deep-dives-data-architecture-translating-requirements-into-design-week-2
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/41e92db8-bfa6-4052-b465-57fb8afb3001.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/1ecd9af3-de98-4edb-8b00-155f2926bb1c.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/b2a8d446-fef0-445e-83be-cb3513836dc7.png
 tags: internships, software-engineering, material-ui, intern, figma, dataarchitecture
 
 ---
@@ -38,7 +38,7 @@ Once the data and numbers were locked in, it was finally time to jump into Figma
 
 I’m going to be completely transparent here: **doing this for the first time was incredibly challenging and a bit confusing.** Staring at an empty digital canvas while trying to synchronize background design assets and font tokens between automated plugins and my local Figma workspace gave me a massive headache.
 
-But I found an incredible shortcut that saved my week: **Stitch****.**
+But I found an incredible shortcut that saved my week: **Stitch**\*\*.\*\*
 
 Instead of building every text field, button, and dashboard element block by block, I leveraged Stitch to quickly scaffold my interface layouts. By feeding our core design parameters and actual database fields into Stitch, it pulled real pre-built Material UI component assets straight onto the canvas.
 
