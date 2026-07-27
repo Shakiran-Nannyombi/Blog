@@ -6,7 +6,7 @@ datePublished: 2026-06-29T10:27:10.439Z
 cuid: cmqz2pt5v00020aj04ru6g2tu
 slug: architecting-a-monorepo-week-3
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/a137bcd8-e2e7-4321-935b-a1ee6814daad.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/2062ec05-8e1a-4b0a-89a9-a665ff4aa42f.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/a8733616-2a53-4837-b0c7-2217690542cc.png
 tags: internships, architecture, ui-design, frontend-development, uiux-design, ui-ux-designer, architecture-design
 
 ---
