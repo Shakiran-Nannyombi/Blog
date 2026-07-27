@@ -12,7 +12,9 @@ tags: internships, software-development, documentation, software-engineering, fr
 
 ---
 
-Hey everyone! 👋 Welcome back to week seven of my software engineering internship series. Last week was all about moving out of sandboxes, migrating our modern admin console to primary routes, and writing staff-level access guards to safely split our identity pools.
+Hey everyone! 👋
+
+Welcome back to week seven of my software engineering internship series. Last week was all about moving out of sandboxes, migrating our modern admin console to primary routes, and writing staff-level access guards to safely split our identity pools.
 
 This week, the focus shifted from inventing massive new features to a critical phase that every professional engineering team must go through before a release: **system stabilization, absolute debt reduction, and handover preparedness.**
 
