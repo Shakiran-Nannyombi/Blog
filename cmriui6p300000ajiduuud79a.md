@@ -6,7 +6,7 @@ datePublished: 2026-07-13T06:32:41.326Z
 cuid: cmriui6p300000ajiduuud79a
 slug: when-being-right-still-means-redoing-the-work
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/fbd7c54d-c956-4d3c-9ec0-fdb7fec584ac.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/72b2d1e5-f9d6-4b8d-b692-095146f89a25.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/d4ce04f3-b74d-477d-8f41-2818c8694254.png
 tags: internships, github, ui-design, frontend-development, manager, nextjs, teamwork
 
 ---
