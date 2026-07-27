@@ -13,7 +13,9 @@ tags: internships, software-development, web-development, frontend-development, 
 
 ---
 
-Hey everyone! 👋 Welcome back to week six of my software engineering internship series. If you tuned in last week, we tackled the brutal reality of branch hygiene, squashed Next.js CI build bugs, and talked about why a manager's structural call wins over a solo developer's ego.
+Hey everyone! 👋
+
+Welcome back to week six of my software engineering internship series. If you tuned in last week, we tackled the brutal reality of branch hygiene, squashed Next.js CI build bugs, and talked about why a manager's structural call wins over a solo developer's ego.
 
 This week, we completely shifted gears from polishing the candidate experience to overhauling our administrative cockpit. We promoted our next-gen admin console out of a temporary namespace into our primary routes, engineered watertight authorization boundaries, and moved flaky client-side states into robust database persistence layers.
 
