@@ -8,7 +8,7 @@ datePublished: 2026-07-27T07:38:56.873Z
 cuid: cms2x1bkw00010ahv7d3ud6uq
 slug: beyond-the-sandboxes-hardening-routes-admin-portals-and-server-states-week-6
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/70a361cb-5145-4d70-983c-babb6852d242.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/a15363e0-4701-4388-91b4-353ba54ea3e3.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/f66ee018-8576-484d-8cc5-62335785e76e.png
 tags: internships, software-development, web-development, frontend-development, material-ui, web-security
 
 ---
