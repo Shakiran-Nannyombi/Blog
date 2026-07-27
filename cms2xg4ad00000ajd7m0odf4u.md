@@ -7,7 +7,7 @@ datePublished: 2026-07-27T07:50:27.256Z
 cuid: cms2xg4ad00000ajd7m0odf4u
 slug: the-final-polish-purging-debt-and-handover-architectures-week-7
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/11b2a58b-8e2d-434e-b718-b352c0f73f81.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/521ff30a-0b95-42bb-9804-8bbfbf210988.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/6d6939fa-6564-4432-aa5d-d00201bcea42.png
 tags: internships, software-development, documentation, software-engineering, frontend-development, code-quality
 
 ---
