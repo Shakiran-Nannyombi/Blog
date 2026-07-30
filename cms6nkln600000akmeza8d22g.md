@@ -14,11 +14,11 @@ tags: ai, software-development, software-architecture, requirements, ai-agents, 
 
 > *"Most AI tools help you write code. Kiro helps you build software."*
 
-Over the past few years, AI coding assistants have become part of nearly every developer's workflow. We ask them to generate functions, explain errors, scaffold applications, or even debug complex issues and they do it remarkably well.
+Over the past few years, AI coding assistants have become part of nearly every developer's workflow. We ask them to generate functions, explain errors, scaffold applications, or even debug complex issues, and they do it remarkably well.
 
 But as software engineers, we know that writing code is only one part of building software.
 
-Before the first line of code is written, we define requirements, think about architecture, break work into manageable tasks, review trade-offs, and iterate until we have something we're proud to ship.
+Before the first line of code is written, we define requirements, consider the architecture, break the work into manageable tasks, review trade-offs, and iterate until we have something we're proud to ship.
 
 That's what makes software engineering different from simply generating code.
 
