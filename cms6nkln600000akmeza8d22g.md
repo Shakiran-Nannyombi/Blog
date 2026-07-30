@@ -5,6 +5,7 @@ seoDescription: "Learn how I built a Tic-Tac-Toe game with Kiro using spec-drive
 datePublished: 2026-07-29T22:25:04.956Z
 cuid: cms6nkln600000akmeza8d22g
 slug: building-tic-tac-toe-game-with-kiro
+canonical: https://builder.aws.com/content/3HCAlCbFSX0Hti7Ywnx1bGITKxz/building-a-tic-tac-toe-game-with-kiro
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/c2cb2a29-7023-4ee5-bc35-d96507b89bfc.jpg
 ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/005b69df-30a1-4e30-9059-8fa5c6f6d19e.jpg
 tags: ai, software-development, software-architecture, requirements, ai-agents, spiderman, kiro
