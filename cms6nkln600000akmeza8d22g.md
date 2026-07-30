@@ -14,7 +14,7 @@ tags: ai, software-development, software-architecture, requirements, ai-agents, 
 
 > *"Most AI tools help you write code. Kiro helps you build software."*
 
-Over the past few years, AI coding assistants have become part of nearly every developer's workflow. We ask them to generate functions, explain errors, scaffold applications, or even debug complex issues—and they do it remarkably well.
+Over the past few years, AI coding assistants have become part of nearly every developer's workflow. We ask them to generate functions, explain errors, scaffold applications, or even debug complex issues and they do it remarkably well.
 
 But as software engineers, we know that writing code is only one part of building software.
 
@@ -22,13 +22,13 @@ Before the first line of code is written, we define requirements, think about ar
 
 That's what makes software engineering different from simply generating code.
 
-Recently, I had the opportunity to explore this idea while hosting my first **Kiro Workshop** for the **AWS Builder Group – Makerere University**. Instead of introducing another AI coding assistant, I wanted students to experience a workflow where AI supports the entire software development lifecycle—from planning to production—not just code generation. Kiro is designed around this spec-driven approach, turning prompts into structured requirements, implementation plans, and code. ([Amazon Web Services, Inc.](https://aws.amazon.com/documentation-overview/kiro/?utm_source=chatgpt.com))
+Recently, I had the opportunity to explore this idea while hosting my first **Kiro Workshop** for the **AWS Builder Group – Makerere University**. Instead of introducing another AI coding assistant, I wanted students to experience a workflow where AI supports the entire software development lifecycle from planning to production, not just code generation. Kiro is designed around this spec-driven approach, turning prompts into structured requirements, implementation plans, and code. ([Amazon Web Services, Inc.](https://aws.amazon.com/documentation-overview/kiro/?utm_source=chatgpt.com))
 
 ## Why Kiro?
 
 When I first heard about Kiro, I was curious because it described itself as an **AI-powered IDE for software engineering**, not simply an AI code generator.
 
-Instead of asking an AI to build an application with one enormous prompt, Kiro encourages developers to work through a structured development process.
+Instead of asking an AI to build an application with a single enormous prompt, Kiro encourages developers to follow a structured development process.
 
 That process includes:
 
@@ -281,4 +281,6 @@ And that's why I'm excited to keep exploring it with our student community.
 
 Thank you for reading
 
-ev\_Kiran
+Dev\_Kiran
+
+%[https://youtu.be/WR1aQBMB338]
