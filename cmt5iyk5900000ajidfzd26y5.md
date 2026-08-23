@@ -1,9 +1,13 @@
 ---
 title: "Setting Up Your AWS Builder ID & Connecting to Skill Builder"
+seoTitle: "setting-up-your-aws-builder-id-connecting-to-skill-builder"
+seoDescription: "Learn how to create an AWS Builder ID, connect to AWS Skill Builder, unlock free student perks, and explore cloud resources step-by-step."
 datePublished: 2026-08-23T08:07:54.247Z
 cuid: cmt5iyk5900000ajidfzd26y5
 slug: setting-up-your-aws-builder-id-connecting-to-skill-builder
 cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/22ec336e-df7b-45f2-a2ab-c1d3a6324c8e.jpg
+ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/2efaa2be-3245-4172-b036-82c5020905b8.jpg
+tags: aws, begineer, aws-skill-builder, awsbeginnerguide, aws-builder-center
 
 ---
 
