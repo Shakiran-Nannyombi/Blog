@@ -5,8 +5,8 @@ seoDescription: "Learn how to create an AWS Builder ID, connect to AWS Skill Bui
 datePublished: 2026-08-23T08:07:54.247Z
 cuid: cmt5iyk5900000ajidfzd26y5
 slug: setting-up-your-aws-builder-id-connecting-to-skill-builder
-canonical: https://dev.to/shakiran_nannyombi_b0bf41/setting-up-your-aws-builder-id-connecting-to-skill-builder-1h9i
-cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/22ec336e-df7b-45f2-a2ab-c1d3a6324c8e.jpg
+canonical: https://builder.aws.com/content/3IJE5274cP50od7zdq7lKIlGS5j/connecting-aws-skill-builder-with-your-aws-builder-id
+cover: https://cdn.hashnode.com/uploads/covers/697b5c79519035959f5d9078/86c58431-d2eb-484e-ba88-ae70816183c5.jpg
 ogImage: https://cdn.hashnode.com/uploads/og-images/697b5c79519035959f5d9078/2efaa2be-3245-4172-b036-82c5020905b8.jpg
 tags: aws, begineer, aws-skill-builder, awsbeginnerguide, aws-builder-center
 
@@ -20,7 +20,7 @@ An **AWS Builder ID** is your personal profile used to access AWS developer and 
 
 ### Step 1: Create Your AWS Builder ID
 
-1.  *Go to the Sign-In Page:* Head over to the [AWS Builder Center](https://builder.aws.com/start)
+1.  *Go to the Sign-In Page:* Head over to the [AWS Builder Center](https://bit.ly/4vXfC9l)
     
 2.  *Click Sign In / Register:* Select the option to sign in or create an **AWS Builder ID**.
     
